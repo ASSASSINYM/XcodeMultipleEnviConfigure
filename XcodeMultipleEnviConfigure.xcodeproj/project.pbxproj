@@ -17,6 +17,8 @@
 		6568118225AD79720050D14A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 6568118125AD79720050D14A /* main.m */; };
 		6568118C25AD79730050D14A /* XcodeMultipleEnviConfigureTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6568118B25AD79730050D14A /* XcodeMultipleEnviConfigureTests.m */; };
 		6568119725AD79730050D14A /* XcodeMultipleEnviConfigureUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 6568119625AD79730050D14A /* XcodeMultipleEnviConfigureUITests.m */; };
+		656811AF25AD80410050D14A /* (9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 656811AD25AD80410050D14A /* (9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf */; };
+		656811B025AD80410050D14A /* (9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 656811AE25AD80410050D14A /* (9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -56,6 +58,8 @@
 		6568119225AD79730050D14A /* XcodeMultipleEnviConfigureUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = XcodeMultipleEnviConfigureUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		6568119625AD79730050D14A /* XcodeMultipleEnviConfigureUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = XcodeMultipleEnviConfigureUITests.m; sourceTree = "<group>"; };
 		6568119825AD79730050D14A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		656811AD25AD80410050D14A /* (9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "(9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf"; sourceTree = "<group>"; };
+		656811AE25AD80410050D14A /* (9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = "(9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -106,6 +110,8 @@
 		6568116B25AD796F0050D14A /* XcodeMultipleEnviConfigure */ = {
 			isa = PBXGroup;
 			children = (
+				656811AD25AD80410050D14A /* (9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf */,
+				656811AE25AD80410050D14A /* (9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf */,
 				6568116C25AD796F0050D14A /* AppDelegate.h */,
 				6568116D25AD796F0050D14A /* AppDelegate.m */,
 				6568116F25AD796F0050D14A /* SceneDelegate.h */,
@@ -242,6 +248,8 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				656811B025AD80410050D14A /* (9条消息) Xcode配置多个项目环境_wojiaoqiaoxiaoqiao的博客-CSDN博客.pdf in Resources */,
+				656811AF25AD80410050D14A /* (9条消息) Xcode -利用 Configuration:Scheme 实现多环境配置_u011307204的博客-CSDN博客.pdf in Resources */,
 				6568117F25AD79720050D14A /* LaunchScreen.storyboard in Resources */,
 				6568117C25AD79720050D14A /* Assets.xcassets in Resources */,
 				6568117725AD796F0050D14A /* Main.storyboard in Resources */,
